@@ -1,0 +1,37 @@
+html {
+	background-color: black;
+}
+div {
+	height: 50%;
+	width: 50%;
+}
+#one {
+	background-color: black;
+	float: left;
+}
+#one:hover {
+	background-color: red;	
+}
+#two {
+	background-color: black;
+	float: right;
+}
+#two:hover {
+	background-color: green;
+}
+#three {
+	background-color: black;	
+	float: left;
+	margin: auto;
+}
+#three:hover {
+	background-color: blue;
+}
+#four {
+	background-color: black;	
+	float: right;
+	margin: auto;
+}
+#four:hover {
+	background-color: yellow;	
+}
